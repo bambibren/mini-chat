@@ -1,5 +1,7 @@
 # Mini-Chat by Mongodb + Express + Vue + Node + Webpack
 
+(未完待续 ...)
+
 ## Build Setup (for Mac)
 ``` 打开终端
 
